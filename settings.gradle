@@ -1,0 +1,5 @@
+rootProject.name = 'guest-parcel-tracking'
+
+include 'eureka-server'
+include 'guest-tracking'
+include 'parcel-service'
